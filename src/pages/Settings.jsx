@@ -154,7 +154,7 @@ export default function Settings() {
 
           <button
             type="submit"
-            className="bg-primary text-white px-4 py-2 rounded-lg flex items-center gap-2"
+            className="bg-blue-500 text-white px-4 py-2 rounded-lg flex items-center gap-2"
           >
             <FiSave /> Save Changes
           </button>
@@ -208,7 +208,7 @@ export default function Settings() {
 
           <button
             type="submit"
-            className="bg-primary text-white px-4 py-2 rounded-lg flex items-center gap-2"
+            className="bg-blue-500 text-white px-4 py-2 rounded-lg flex items-center gap-2"
           >
             <FiSave /> Change Password
           </button>

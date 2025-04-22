@@ -162,7 +162,7 @@ export default function AddStudent() {
 
         <button
           type="submit"
-          className="bg-blue-400 text-black px-4 py-2 rounded-lg flex items-center gap-2"
+          className="bg-blue-500 text-black px-4 py-2 rounded-lg flex items-center gap-2"
         >
           <FiSave /> Save Student
         </button>

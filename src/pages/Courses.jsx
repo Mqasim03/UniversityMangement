@@ -77,7 +77,7 @@ export default function Courses() {
             setCurrentCourse(null);
             setIsModalOpen(true);
           }}
-          className="bg-primary text-white px-4 py-2 rounded-lg hover:bg-primary-dark flex items-center gap-2"
+          className="bg-blue-500 text-white px-4 py-2 rounded-lg hover:bg-primary-dark flex items-center gap-2"
         >
           <FiPlus /> Add Course
         </button>
